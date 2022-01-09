@@ -4,7 +4,7 @@ import { HomeComponent } from './home/home.component';
 
 const routes: Routes = [
   {
-    path:"covidCases",
+    path:"",
     component:HomeComponent
   }
 ];
